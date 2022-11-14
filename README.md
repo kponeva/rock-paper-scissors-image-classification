@@ -11,7 +11,7 @@ Rock : 726  |  Paper : 712  |  Scissors : 750
  - [x] Train       : 60 %
  - [x] Test        : 40 %
 
-Otput
+Output
  - [x] Accuracy       : 92 %
  - [x] Val Accuracy   : 93 %
 
