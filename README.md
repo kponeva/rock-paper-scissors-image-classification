@@ -1,6 +1,6 @@
 # Image Classification of Rock Paper Scissors using CNN
 
-A hands-on project on images classification of rock-paper-scissors to implement some techniques of CNN TensorFlow. This is a part of Machine Learning Developer learning path in Dicoding Academy under the Baperekraf program (BDD 2022 Batch II).
+A hands-on project on images classification of rock-paper-scissors to implement some techniques of TensorFlow such as Augmentation, CNN, Dropout, etc. This is a part of Machine Learning Developer learning path in Dicoding Academy under the Baparekraf program (BDD 2022 Batch II).
 
 Dataset : Rock Paper Scissors <br />
 
